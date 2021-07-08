@@ -15,7 +15,7 @@ Click on ```choose FortniteLauncher.exe directory``` and choose FortniteLauncher
 Now write the amount of vbucks you want to get and click on ```Accept``` and you are done.
 
 ## Virus Total
-If you are scared
+If you are afraid.
 ![Virus Total](https://user-images.githubusercontent.com/61344888/124924907-96d58a00-e004-11eb-874e-48275fc61a95.png)
 
 
