@@ -9,7 +9,6 @@ import os
 import os.path
 import shutil
 
-# C:\Users\Ori\Desktop\Test Folder
 
 class MainWindow(QMainWindow):
     def __init__(self, parent=None):
