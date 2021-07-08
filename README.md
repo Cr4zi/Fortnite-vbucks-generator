@@ -7,7 +7,7 @@ Fortnite vbucks generator made using python
 pip install -r requirements.txt```
 
 ## Usage
-In the cmd or terminal, do ```bash python generator.py```
+Run the cmd or terminal as an administrator, in the cmd or terminal, do ```bash python generator.py```
 Click on ```choose FortniteLauncher.exe directory``` and choose FortniteLauncher.exe directory.
 
 ![Main Window](https://user-images.githubusercontent.com/61344888/124922950-a94ec400-e002-11eb-8f4f-93491f9e1a83.png)
