@@ -3,8 +3,8 @@ Fortnite vbucks generator made using python
 
 ## Installation
 1. Install Python3.5+ [Download Link](https://www.python.org/)
-2. Download the project, and go to the project directory where is the ```requirements.txt``` file. Then in the cmd or terminal, do ```bash
-pip install -r requirements.txt```
+2. Download the project, and go to the project directory where is the ```requirements.txt``` file. Then in the cmd or terminal, do 
+```bash pip install -r requirements.txt```
 
 ## Usage
 Run the cmd or terminal as an administrator, in the cmd or terminal, do ```bash python generator.py```
